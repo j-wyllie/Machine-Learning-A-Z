@@ -1,6 +1,7 @@
 # Machine-Learning-A-Z
 
-Udemy course covering how to make use of:
+Udemy course I completed in the Summer of 2018.
+Covers how to make use of:
 
 REGRESSION:
 - Simple Linear Regression
